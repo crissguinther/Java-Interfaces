@@ -1,3 +1,4 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="model.entities.Quota"><rhs name\="model.entities.Quota"/></lhs><lhs name\="model.services.TaxService"><rhs name\="model.services.MonthlyTaxService"/><rhs name\="model.services.PaymentTaxService"/></lhs></history>
 content_assist_number_of_computers=12
 content_assist_proposals_background=255,255,255
 content_assist_proposals_foreground=51,51,51
